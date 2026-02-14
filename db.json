@@ -1,5 +1,9 @@
-[
-  {
-    "name": "asdasd"
-  }
-]
+{
+  "users": [
+    { "id": 1, "name": "张三", "age": 20 },
+    { "id": 2, "name": "李四", "age": 22 }
+  ],
+  "goods": [
+    { "id": 1, "name": "商品1", "price": 99 }
+  ]
+}
